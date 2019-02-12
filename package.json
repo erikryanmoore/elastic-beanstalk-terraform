@@ -1,0 +1,14 @@
+{
+  "name": "elastic-beanstalk-terraform",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:erikryanmoore/elastic-beanstalk-terraform.git",
+  "author": "erikryanmoore <erikmoore02@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
